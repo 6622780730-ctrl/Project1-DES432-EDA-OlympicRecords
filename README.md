@@ -9,13 +9,13 @@ This project cleans and analyzes Olympic athlete participation records (1896–2
 - 🏃 **Athletics (Track Events)**
 - 🏊 **Swimming**
 
-The goal is to compare athlete physical characteristics (**height, weight, age**) and explore relationships with **medal outcomes** using EDA and descriptive statistics.
+The goal is to compare athlete physical characteristics (**height, weight, age**) and explore relationships using EDA and descriptive statistics.
 
 ## 📂 Dataset
 Source: Kaggle — *120 Years of Olympic History: Athletes and Results*  
 Each row represents **one athlete in one event in one Olympic Games** (athletes may appear multiple times across years/events).
 
-Key variables used:
+Key variables used (Not everthing in dataset):
 - **Sex** (categorical)
 - **Age** (numerical)
 - **Height** (cm, numerical)
@@ -70,7 +70,7 @@ Based on EDA:
 - `Project1_DES432_athlete_events.ipynb` — main notebook (cleaning + EDA + descriptive stats)
 - `README.md` — this file
 
-> Note: The raw dataset file may be too large for GitHub. If not included, please download it from Kaggle using the link above.
+> Note: The raw dataset file is be too large for GitHub. Please download it from Kaggle using the link above.
 
 
 # ▶️ How to Run This Project
@@ -95,12 +95,7 @@ In Colab:
 3. Upload `athlete_events.csv`
 
 ### Step 4 — Run All Cells
-Click **Runtime → Run all**
-
-The notebook will automatically:
-- Clean the dataset  
-- Generate plots  
-- Compute descriptive statistics  
+Click **Runtime → Run all**  
 
 ## Option 2 — Run Locally (Python)
 
