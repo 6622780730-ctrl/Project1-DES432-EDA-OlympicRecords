@@ -98,11 +98,8 @@ Download from Kaggle:
 https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results  
 
 Download the file:
-```
 
 athlete_events.csv
-
-````
 
 ### Step 2 — Open Notebook in Colab
 Upload or open the notebook in Google Colab.
@@ -126,21 +123,17 @@ The notebook will automatically:
 ## Option 2 — Run Locally (Python)
 
 ### Step 1 — Install Libraries
-```bash
+
 pip install pandas numpy matplotlib seaborn jupyter
-````
 
 ### Step 2 — Download Dataset
 
 Place the dataset file in the project folder:
 
-```
 athlete_events.csv
-```
 
 ### Step 3 — Run Notebook
 
-```bash
 jupyter notebook Project1_DES432_athlete_events.ipynb
 ```
 
@@ -156,7 +149,7 @@ Running the notebook will:
 * Generate EDA plots
 * Print descriptive statistics
 
-```
+
 ## 🛠 Tools
 Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
