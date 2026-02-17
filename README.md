@@ -89,15 +89,81 @@ Based on EDA:
 
 ---
 
-## 🛠 Tools
-Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
+AHHH ok got it 😭 you want the **Markdown code block** version so GitHub formats it nicely.
+
+Copy this EXACTLY and paste into README.md edit page 👇
+
+```markdown
+# ▶️ How to Run This Project
+
+## Option 1 — Run in Google Colab (Recommended)
+
+### Step 1 — Download Dataset
+Download from Kaggle:  
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results  
+
+Download the file:
+```
+
+athlete_events.csv
+
+````
+
+### Step 2 — Open Notebook in Colab
+Upload or open the notebook in Google Colab.
+
+### Step 3 — Upload Dataset
+In Colab:
+1. Open the **Files** panel (left sidebar)
+2. Click **Upload**
+3. Upload `athlete_events.csv`
+
+### Step 4 — Run All Cells
+Click **Runtime → Run all**
+
+The notebook will automatically:
+- Clean the dataset  
+- Generate plots  
+- Compute descriptive statistics  
 
 ---
 
-## 👩‍🎓 Authors
-- Nutnapin Chongwimansin — 6622770848  
-- Supitcha Puboonterm — 6622772539  
-- Lalitpatra Kodsup — 6622780730  
+## Option 2 — Run Locally (Python)
+
+### Step 1 — Install Libraries
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+````
+
+### Step 2 — Download Dataset
+
+Place the dataset file in the project folder:
+
+```
+athlete_events.csv
+```
+
+### Step 3 — Run Notebook
+
+```bash
+jupyter notebook Project1_DES432_athlete_events.ipynb
+```
+
+Run all cells from top to bottom.
+
+---
+
+## 📈 Expected Output
+
+Running the notebook will:
+
+* Produce cleaned dataset
+* Generate EDA plots
+* Print descriptive statistics
+
+```
+## 🛠 Tools
+Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
 ---
 
