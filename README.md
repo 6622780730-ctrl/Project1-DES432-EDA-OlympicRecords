@@ -1,7 +1,4 @@
 # Project1-DES432-EDA-OlympicRecords
-Exploratory Data Analysis and Descriptive Statistics of Olympic athlete participation records using the “120 Years of Olympic History: athletes and results” dataset for DES432 Statistics &amp; Data Modeling.
-
-# 🏅 Olympic Athlete EDA — DES432 Project 1
 
 Exploratory Data Analysis (EDA) and Descriptive Statistics on Olympic athlete participation records using the dataset **“120 Years of Olympic History: Athletes and Results.”**
 
