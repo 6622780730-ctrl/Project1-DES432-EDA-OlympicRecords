@@ -89,11 +89,6 @@ Based on EDA:
 
 ---
 
-AHHH ok got it 😭 you want the **Markdown code block** version so GitHub formats it nicely.
-
-Copy this EXACTLY and paste into README.md edit page 👇
-
-```markdown
 # ▶️ How to Run This Project
 
 ## Option 1 — Run in Google Colab (Recommended)
