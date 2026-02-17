@@ -27,8 +27,6 @@ Key variables used:
 - **Sport / Event** (categorical)
 - **Medal** (Gold / Silver / Bronze / No Medal)
 
----
-
 ## 🧹 Data Cleaning Summary
 Steps applied to improve data quality:
 - Removed **duplicate rows**
@@ -41,8 +39,6 @@ Steps applied to improve data quality:
 After cleaning, analysis was restricted to:
 - **Summer Olympics**
 - **Athletics (Track Events)** and **Swimming**
-
----
 
 ## 📊 Exploratory Data Analysis (EDA)
 Visualizations and interpretations include:
@@ -60,16 +56,12 @@ Visualizations and interpretations include:
 - Height vs Medal (Track vs Swimming)
 - Height vs Weight (Track vs Swimming)
 
----
-
 ## 🔎 Key Findings (High-level)
 - Most participation records are **No Medal** (expected due to limited medal awards).
 - Swimming athletes are generally **slightly taller and heavier** than track athletes.
 - Height is **approximately symmetric**; weight and age show **mild right-skewness**.
 - Height and weight have a clear **positive relationship** in both sports.
 - Medalists in swimming tend to be **slightly taller** than non-medalists (with overlap across categories).
-
----
 
 ## 📈 Summary Statistics Choice
 Based on EDA:
@@ -78,8 +70,6 @@ Based on EDA:
 - **Age:** Median + IQR  
 - **Categorical variables:** Counts and proportions
 
----
-
 ## 🗂 Repository Contents
 - `Project1_DES432_athlete_events.ipynb` — main notebook (cleaning + EDA + descriptive stats)
 - `README.md` — this file
@@ -87,7 +77,6 @@ Based on EDA:
 
 > Note: The raw dataset file may be too large for GitHub. If not included, please download it from Kaggle using the link above.
 
----
 
 # ▶️ How to Run This Project
 
