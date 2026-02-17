@@ -103,8 +103,6 @@ The notebook will automatically:
 - Generate plots  
 - Compute descriptive statistics  
 
----
-
 ## Option 2 — Run Locally (Python)
 
 ### Step 1 — Install Libraries
