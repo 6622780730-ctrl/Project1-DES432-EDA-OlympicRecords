@@ -69,7 +69,6 @@ Based on EDA:
 ## 🗂 Repository Contents
 - `Project1_DES432_athlete_events.ipynb` — main notebook (cleaning + EDA + descriptive stats)
 - `README.md` — this file
-- `DES432_Project1_EDA_Report.pdf` — final report (if uploaded)
 
 > Note: The raw dataset file may be too large for GitHub. If not included, please download it from Kaggle using the link above.
 
