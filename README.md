@@ -4,16 +4,12 @@ Exploratory Data Analysis (EDA) and Descriptive Statistics on Olympic athlete pa
 
 Course: **DES432 – Statistics & Data Modeling (SIIT, Thammasat University)**
 
----
-
 ## 📌 Project Overview
 This project cleans and analyzes Olympic athlete participation records (1896–2016) with a focus on two Summer Olympic sports:
 - 🏃 **Athletics (Track Events)**
 - 🏊 **Swimming**
 
 The goal is to compare athlete physical characteristics (**height, weight, age**) and explore relationships with **medal outcomes** using EDA and descriptive statistics.
-
----
 
 ## 📂 Dataset
 Source: Kaggle — *120 Years of Olympic History: Athletes and Results*  
@@ -124,11 +120,8 @@ athlete_events.csv
 ### Step 3 — Run Notebook
 
 jupyter notebook Project1_DES432_athlete_events.ipynb
-```
 
 Run all cells from top to bottom.
-
----
 
 ## 📈 Expected Output
 
@@ -138,11 +131,8 @@ Running the notebook will:
 * Generate EDA plots
 * Print descriptive statistics
 
-
 ## 🛠 Tools
 Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
-
----
 
 ## 📎 Note
 This dataset represents **elite Olympic athletes**, so findings may not represent the general population.
